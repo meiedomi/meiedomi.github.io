@@ -1,5 +1,5 @@
 # What is this?
-This is a so-called Github Pages project (backed by a Git repo). It is accessible publicly via [meiedomi.github.io](meiedomi.github.io).
+This is a so-called Github Pages project (backed by a Git repo). It is accessible publicly via [meiedomi.github.io](https://meiedomi.github.io).
 It contains a simple `ìndex.html` that redirects to the [wiki](https://github.com/meiedomi/meiedomi.github.io/wiki) of this project (also a separate Git repo).
 
 # Purpose
